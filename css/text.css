@@ -1,0 +1,19 @@
+.box{background-color: black;
+	box-sizing: borrder border-box;
+	padding: 20px 70px 50px 10px;
+	padding top:20px ;
+    padding-right: 40px;
+    padding bottom: 100px;
+    padding-left:30px ;
+    margin: 0 auto;
+    border: 10px dashed white;}
+
+.box_2{background-color: green;
+       margin: auto;
+       border: 10px dashed yellow}
+
+.box_3{background-color: blue;
+      margin: auto;
+     border: 10px dashed red}
+
+body{background-color: purple;}
